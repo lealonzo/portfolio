@@ -1,8 +1,9 @@
-📊 Finance Portfolio Dashboard & Crypto Price Visualization
+# 📊 Finance Portfolio Dashboard & Crypto Price Visualization
 
-Welcome to the Finance Portfolio Dashboard & Crypto Price Visualization app! 🚀 This Streamlit-powered web app enables users to create optimized financial portfolios and visualize real-time cryptocurrency price data in an interactive manner.
+Welcome to the Finance Portfolio Dashboard & Crypto Price Visualization app! 
+🚀 This Streamlit-powered web app enables users to create optimized financial portfolios and visualize real-time cryptocurrency price data in an interactive manner.
 
-🎯 Features
+## 🎯 Features
 
 ✅ Portfolio Allocation:
 
@@ -13,7 +14,7 @@ Welcome to the Finance Portfolio Dashboard & Crypto Price Visualization app! �
 ✅ Live Data Integration:
 
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🔹 Add more allocation strategies 
 🔹 Enhance UI with custom themes.
