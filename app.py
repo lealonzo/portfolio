@@ -6,5 +6,5 @@ test = st.Page("test.py", title="Feedback", icon=":material/chat:")
 
 
 pg = st.navigation([Home, crypto_plot,test])
-st.set_page_config(page_title="Data manager", page_icon=":material/database:")
+st.set_page_config(page_title="Lea's Portfolio", page_icon=":material/database:")
 pg.run()

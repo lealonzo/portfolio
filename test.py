@@ -36,7 +36,7 @@ def feedback_page():
         💬 **I'd love to hear from you!**  
         I'll be adding more side projects that would interest me to this page.
         \nIf you want to keep in touch, please send your comments to:  
-        **leamonicaalonzo@gmail.com**        
+        **https://www.linkedin.com/in/leamonicaalonzo/**        
     """)
 
 # Run the feedback page
